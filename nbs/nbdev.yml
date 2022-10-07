@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-minimal-example"
+  site-url: "https://jimmiemunyi.github.io/nbdev-minimal-example"
+  description: "Minimal example to be used for testing"
+  repo-branch: main
+  repo-url: "https://github.com/jimmiemunyi/nbdev-minimal-example"
